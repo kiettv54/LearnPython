@@ -1,0 +1,23 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 25,
+    "editor.wordWrap": "on",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "view-in-browser.default": "chrome",
+    "sqltools.connections": [
+        {
+            "database": "root",
+            "dialect": "MySQL",
+            "name": "root",
+            "password": "Asshura1999",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "root"
+        }
+    ]
+}
